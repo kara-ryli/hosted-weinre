@@ -1,0 +1,1 @@
+web: weinre --httpPort=$PORT

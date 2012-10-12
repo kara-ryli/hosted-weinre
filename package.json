@@ -1,0 +1,11 @@
+{
+  "name": "hosted-weinre",
+  "version": "0.0.1",
+  "dependencies": {
+    "weinre": "2.0.x"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+}
