@@ -1,1 +1,1 @@
-web: weinre --httpPort=$PORT
+web: weinre --httpPort=$PORT --boundHost=$BOUND_HOST
