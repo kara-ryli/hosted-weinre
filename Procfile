@@ -1,1 +1,1 @@
-web: weinre --httpPort=$PORT --boundHost=$BOUND_HOST
+web: node_modules/weinre/weinre --httpPort $PORT --boundHost= -all-

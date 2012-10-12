@@ -2,7 +2,7 @@
   "name": "hosted-weinre",
   "version": "0.0.1",
   "dependencies": {
-    "weinre": "2.0.x"
+    "weinre": "https://github.com/downloads/AppGyver/incubator-cordova-weinre/apache-cordova-weinre-2.0.0-pre-H77LBWIW-incubating-bin.tar.gz"
   },
   "engines": {
     "node": "0.8.x",
